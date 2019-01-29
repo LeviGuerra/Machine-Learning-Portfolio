@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-**Author: [Levi Guerra](https://www.linkedin.com/in/leviguerra/)**
+**Author: [Levi Guerra](#About-me)**
 
 Compilation of my public Machine Learning (ML) projects. They come in the shape of *Jupyter Notebooks* (Python code with text and images).
 
@@ -42,3 +42,7 @@ Although this repository does not have educational purposes, due to how it is or
 
 ### Personal Projects
 This section is a connection to other larger personal projects. Due to their nature they are present in individual repositories.
+
+------
+
+### About me:
