@@ -1,14 +1,18 @@
+# Machine Learning Portfolio
+**Author: [Levi Guerra](https://www.linkedin.com/in/leviguerra/)**
 
+Compilation of my public Machine Learning (ML) projects. They come in the shape of *Jupyter Notebooks* (Python code with text and images).
 
-If my GitHub represents my portfolio as a programmer, this repository constitutes a compilation of all the machine learning models that I have worked with. Bigger and more ambitious personal projects will be found in other repositories.
+This portfolio contains small projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning), and a final section with larger and more ambitious personal ML-projects.
 
-Although it does not have didactical purposes, due to how it is organized and how clear the code and the explanations are, it could serve educational purposes.
+Although this repository does not have educational purposes, due to how it is organized and how clear the code and the explanations are, it could have didactical value.
 
 ### Table of Contents
-- [Supervised Learning Projects](#Supervised-Learning)
+- [Supervised Learning](#Supervised-Learning)
 - [Unsupervised Learning](#Unsupervised-Learning)
 - [Deep Learning](#Deep-Learning)
 - [Others](#Others)
+- [Ambitious Personal Projects](#Ambitious-Personal-Projects)
 
 ------
 
@@ -20,16 +24,25 @@ Although it does not have didactical purposes, due to how it is organized and ho
     - [Regression Models - MNIST Dataset]()
   - ### K-Nearest Neighbors
     - [KNN Classification - Wine Dataset]()
+    
 ## Unsupervised Learning
   - ### K-Means Clustering
     - [K-Means Clustering - Iris Dataset]()
-    - [An Unsupervised Approach to MNIST Dataset]()
+    - [An Unsupervised Approach to MNIST Dataset]() 
+    
 ## Deep Learning
   - ### Multilayer Perceptron (MLP)
     - [Multilayer Perceptron - MNIST Dataset]()
   - ### Convolutional Neural Networks (CNN)
-    - []()
+    - [Being Updated]()
   - ### Autoencoders
+    - [Being Updated]()
+    
 ## Others
  - ### Data Augmentation
-  - [Project 12]()
+    - [Being Updated]()
+
+------
+
+## Ambitious Personal Projects
+This section is a connection to other larger personal projects. Due to their nature they are present in individual repositories.
