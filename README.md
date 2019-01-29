@@ -5,10 +5,10 @@ If my GitHub represents my portfolio as a programmer, this repository constitute
 Although it does not have didactical purposes, due to how it is organized and how clear the code and the explanations are, it could serve educational purposes.
 
 ### Table of Contents
-- [Supervised Learning Projects]()
-- [Unsupervised Learning]()
-- [Deep Learning]()
-- [Others]()
+- [Supervised Learning Projects](#Supervised-Learning)
+- [Unsupervised Learning](#Unsupervised-Learning)
+- [Deep Learning](#Deep-Learning)
+- [Others](#Others)
 
 ------
 
