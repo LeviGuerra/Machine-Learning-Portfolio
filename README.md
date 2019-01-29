@@ -1,4 +1,5 @@
 # Machine Learning Portfolio
+
 **Author: [Levi Guerra](https://www.linkedin.com/in/leviguerra/)**
 
 Compilation of my public Machine Learning (ML) projects. They come in the shape of *Jupyter Notebooks* (Python code with text and images).
