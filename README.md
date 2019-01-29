@@ -10,9 +10,7 @@ Although this repository does not have educational purposes, due to how it is or
 
 ## Contents
 
-------
-
-### Supervised Learning
+### Supervised & Unsupervised Learning
   - #### Regression Models
     - [Linear Regression - Boston Housing Dataset]()
     - [Polynomial Regression - Insurance Claims Dataset]()
@@ -20,18 +18,17 @@ Although this repository does not have educational purposes, due to how it is or
     - [Regression Models - MNIST Dataset]()
   - #### K-Nearest Neighbors
     - [KNN Classification - Wine Dataset]()
-    
-### Unsupervised Learning
   - #### K-Means Clustering
     - [K-Means Clustering - Iris Dataset]()
     - [An Unsupervised Approach to MNIST Dataset]() 
-    
-### Deep Learning
+
+-### Deep Learning
   - #### Multilayer Perceptron (MLP)
     - [Multilayer Perceptron - MNIST Dataset]()
   - #### Convolutional Neural Networks (CNN)
     - [Being Updated]()
   - #### Autoencoders
+    - [Being Updated]()
     - [Being Updated]()
     
 ### Others
