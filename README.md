@@ -22,7 +22,7 @@ Although this repository does not have educational purposes, due to how it is or
     - [K-Means Clustering - Iris Dataset]()
     - [An Unsupervised Approach to MNIST Dataset]() 
 
--### Deep Learning
+### Deep Learning
   - #### Multilayer Perceptron (MLP)
     - [Multilayer Perceptron - MNIST Dataset]()
   - #### Convolutional Neural Networks (CNN)
