@@ -8,14 +8,14 @@ This portfolio contains small projects for different types of ML-algorithms (Cla
 
 ### Contents
 
-- [Supervised & Unsupervised Learning](#Supervised-&-Unsupervised-Learning)
+- [Supervised & Unsupervised Learning](#Supervised-and-Unsupervised-Learning)
 - [Deep Learning](#Deep-Learning)
 - [Others](#Others)
-- [Ambitious Personal Projects](#Ambitious-Personal-Projects)
+- [Personal Projects](#Personal-Projects)
 
 ------
 
-## Supervised & Unsupervised Learning
+## Supervised and Unsupervised Learning
   - ### Regression Models
     - [Linear Regression - Boston Housing Dataset]():
     - [Polynomial Regression - Insurance Claims Dataset]()
