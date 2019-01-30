@@ -4,9 +4,7 @@
 
 Compilation of my public Machine Learning (ML) projects. They come in the shape of *Jupyter Notebooks* (Python code with text and images).
 
-This portfolio contains small projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning), and a final section with larger and more ambitious personal ML-projects.
-
-Although this repository does not have educational purposes, due to how it is organized and how clear the code and the explanations are, it could have didactical value.
+This portfolio contains small projects for different types of ML-algorithms (Classical ML algorithms and Deep Learning), and a final section with larger and more ambitious personal ML-projects. Although this repository does not have educational purposes, due to how it is organized and how clear the code and the explanations are, it could have didactical value.
 
 ### Contents
 
@@ -18,28 +16,28 @@ Although this repository does not have educational purposes, due to how it is or
 ------
 
 ## Supervised & Unsupervised Learning
-  - #### Regression Models
+  - ### Regression Models
     - [Linear Regression - Boston Housing Dataset]():
     - [Polynomial Regression - Insurance Claims Dataset]()
     - [Logistic Classification - Breast Cancer Wisconsin Dataset]()
     - [Regression Models - MNIST Dataset]()
-  - #### K-Nearest Neighbors
+  - ### K-Nearest Neighbors
     - [KNN Classification - Wine Dataset]()
-  - #### K-Means Clustering
+  - ### K-Means Clustering
     - [K-Means Clustering - Iris Dataset]()
     - [An Unsupervised Approach to MNIST Dataset]() 
 
 ## Deep Learning
-  - #### Multilayer Perceptron (MLP)
+  - ### Multilayer Perceptron (MLP)
     - [Multilayer Perceptron - MNIST Dataset]()
-  - #### Convolutional Neural Networks (CNN)
+  - ### Convolutional Neural Networks (CNN)
     - [Being Updated]()
-  - #### Autoencoders
+  - ### Autoencoders
     - [Being Updated]()
     - [Being Updated]()
     
 ## Others
- - #### Data Augmentation
+ - ### Data Augmentation
     - [Being Updated]()
 
 ## Personal Projects
