@@ -8,11 +8,18 @@ This portfolio contains small projects for different types of ML-algorithms (Sup
 
 Although this repository does not have educational purposes, due to how it is organized and how clear the code and the explanations are, it could have didactical value.
 
-## Contents
+### Contents
 
-### Supervised & Unsupervised Learning
+- [Supervised & Unsupervised Learning](#Supervised-&-Unsupervised-Learning)
+- [Deep Learning](#Deep-Learning)
+- [Others](#Others)
+- [Ambitious Personal Projects](#Ambitious-Personal-Projects)
+
+------
+
+## Supervised & Unsupervised Learning
   - #### Regression Models
-    - [Linear Regression - Boston Housing Dataset]()
+    - [Linear Regression - Boston Housing Dataset]():
     - [Polynomial Regression - Insurance Claims Dataset]()
     - [Logistic Classification - Breast Cancer Wisconsin Dataset]()
     - [Regression Models - MNIST Dataset]()
@@ -22,7 +29,7 @@ Although this repository does not have educational purposes, due to how it is or
     - [K-Means Clustering - Iris Dataset]()
     - [An Unsupervised Approach to MNIST Dataset]() 
 
-### Deep Learning
+## Deep Learning
   - #### Multilayer Perceptron (MLP)
     - [Multilayer Perceptron - MNIST Dataset]()
   - #### Convolutional Neural Networks (CNN)
@@ -31,15 +38,13 @@ Although this repository does not have educational purposes, due to how it is or
     - [Being Updated]()
     - [Being Updated]()
     
-### Others
+## Others
  - #### Data Augmentation
     - [Being Updated]()
 
-------
-
-### Personal Projects
+## Personal Projects
 This section is a connection to other larger personal projects. Due to their nature they are present in individual repositories.
 
 ------
 
-### About me:
+## About me:
