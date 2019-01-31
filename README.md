@@ -2,9 +2,9 @@
 
 **Author: [Levi Guerra](#About-me)**
 
-Compilation of my public Machine Learning (ML) projects. They come in the shape of *Jupyter Notebooks* (Python code with text and images).
+Compilation of my public Machine Learning projects. They come in the shape of *Jupyter Notebooks* (Python code with text and images).
 
-This portfolio contains small projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning), and a final section with larger and more ambitious personal ML-projects. Although this repository does not have educational purposes, due to how it is organized and how clear the code and the explanations are, it could have didactical value.
+This portfolio contains small projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning), and a final section with larger and more ambitious personal projects. Although this repository does not have educational purposes, due to how it is organized and how clear the code and the explanations are, it could have didactical value.
 
 ### Contents
 
@@ -48,3 +48,7 @@ This section is a connection to other larger personal projects. Due to their mor
 ------
 
 ## About me:
+
+Levi Guerra García (26 y/o). Physicist (M.Sc.) passionate about Machine Learning, Data Analysis and Neuroscience. Further information about myself (here)[https://www.linkedin.com/in/leviguerra/].
+
+For any suggestion regarding the content of the portfolio, or for a collaboration proposal, please do not hesistate to send me an email: leviguerra.g@gmail.com
