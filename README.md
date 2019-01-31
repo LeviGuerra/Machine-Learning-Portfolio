@@ -2,9 +2,11 @@
 
 **Author: [Levi Guerra](#About-me)**
 
-Compilation of my public Machine Learning projects. They come in the shape of *Jupyter Notebooks* (Python code with text and images).
+Compilation of my **public Machine Learning projects**. They come in the shape of *Jupyter Notebooks* (Python code with text and images). This portfolio contains small projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning), and a final section with larger and more ambitious personal projects. 
 
-This portfolio contains small projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning), and a final section with larger and more ambitious personal projects. Although this repository does not have educational purposes, due to how it is organized and how clear the code and the explanations are, it could have didactical value.
+Most of the projects include a thorough **Exploratory Data Analysis** (libraries for visualization: *matplotlib*, *mpl_toolkits*, *seaborn*). Although this repository does not have educational purposes, due to its organization and how clear the code and the explanations are, it could have didactical value. 
+
+*Libraries: NumPy, SciPy, Pandas, Random, Collections, Scikit-Learn, ImbLearn, Tensorflow, Keras*.
 
 ### Contents
 
@@ -17,8 +19,8 @@ This portfolio contains small projects for different types of ML-algorithms (Sup
 
 ## Supervised and Unsupervised Learning
   - ### Regression Models
-    - [Linear Regression - Boston Housing Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/01_Linear-Regression_Boston-Housing-Dataset.ipynb): Prediction of the median value of a house in Boston using a dataset with information about the housing in the city. This is done first using a *simple linear regression* and then a *multiple linear regression*.
-    - [Polynomial Regression - Insurance Claims Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/02_Polynomial-Regression_Insurance-Dataset.ipynb): Predicting the number of insurance claims in a company by means of the information collected from previous years. 
+    - [Linear Regression - Boston Housing Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/01_Linear-Regression_Boston-Housing-Dataset.ipynb): Prediction of the median value of a house in Boston using a dataset with information about the housing in the city. Simple and multiple linear regressions will be presented and compared to scikit-learn regressions.
+    - [Polynomial Regression - Insurance Claims Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/02_Polynomial-Regression_Insurance-Dataset.ipynb): Predicting the number of insurance claims in a company by means of the information collected from previous years. The method presented will be compared to the *Scikit-Learn* implementation.
     - [Logistic Regression - Breast Cancer Wisconsin Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/03_Logistic-Classification_Breast-Cancer-Wisconsin-Dataset.ipynb): The Breast Cancer Wisconsin dataset contains biophyisical information about different samples of benign and malignant cells. A logistic regression is used to predict whether a cell is of one type or another, based on its characteristic.
     - [Regression Models - MNIST Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/07_Regression-Models_MNIST.ipynb): Classifying handwritten numbers (MNIST) by means of different types of regression. The accuracy between methods can be compared.
   - ### K-Nearest Neighbors
