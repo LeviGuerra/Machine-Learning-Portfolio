@@ -2,7 +2,7 @@
 
 **Author: [Levi Guerra](#About-me)**
 
-Compilation of my **public Machine Learning projects**. They come in the shape of *Jupyter Notebooks* (Python code with text and images). This portfolio contains small projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning), and a final section with larger and more ambitious personal projects. 
+Compilation of my **public Machine Learning projects**. They come in the shape of *Jupyter Notebooks* (Python code with text and images). This portfolio contains projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning) and a final section with larger and more ambitious personal projects. 
 
 Most of the projects include a thorough **Exploratory Data Analysis** (libraries for visualization: *matplotlib*, *mpl_toolkits*, *seaborn*). Although this repository does not have educational purposes, due to its organization and how clear the code and the explanations are, it could have didactical value. 
 
@@ -45,7 +45,7 @@ Most of the projects include a thorough **Exploratory Data Analysis** (libraries
 ## Personal Projects
 This section is a connection to other larger personal projects. Due to their more ambitious nature they are presented in individual repositories.
 
-- **[Customer Clustering and Churn Prediction in a Bank:](https://github.com/LeviGuerra/Bank-Churn-Prediction/blob/master/Code_and_Dataset/Customer_Clustering_and_Churn_Prediction.ipynb)**: In this project a solution for the customer churn in a bank is presented. The model can be divided into two goals: split customers into groups of highly similar members (clustering) and predict by means of deep learning the churn risk of individual customers. The application of the model here presented would translate in a positive economical impact for the institution. Furthermore these results are not exclusive for banks: any type of institution/company with a large number of customers (or employees), where loyalty represents a valuable feature, could benefit from it.
+- **[Customer Clustering and Churn Prediction in a Bank](https://github.com/LeviGuerra/Bank-Churn-Prediction/blob/master/Code_and_Dataset/Customer_Clustering_and_Churn_Prediction.ipynb)**: In this project a solution for the customer churn in a bank is presented. The model can be divided into two goals: split customers into groups of highly similar members (clustering) and predict by means of deep learning the churn risk of individual customers. The application of the model here presented would translate in a positive economical impact for the institution. Furthermore these results are not exclusive for banks: any type of institution/company with a large number of customers (or employees), where loyalty represents a valuable feature, could benefit from it.
 
 ------
 
