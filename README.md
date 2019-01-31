@@ -22,9 +22,9 @@ This portfolio contains small projects for different types of ML-algorithms (Sup
     - [Logistic Regression - Breast Cancer Wisconsin Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/03_Logistic-Classification_Breast-Cancer-Wisconsin-Dataset.ipynb): The Breast Cancer Wisconsin dataset contains biophyisical information about different samples of benign and malignant cells. A logistic regression is used to predict whether a cell is of one type or another, based on its characteristic.
     - [Regression Models - MNIST Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/07_Regression-Models_MNIST.ipynb): Classifying handwritten numbers (MNIST) by means of different types of regression. The accuracy between methods can be compared.
   - ### K-Nearest Neighbors
-    - [KNN Classification - Wine Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/04_KNN-Clasification_Wine-Dataset.ipynb): Classifying wines of unknown type based on the similarity in properties (*nearest neighbor*) to other labelled wines.
+    - [KNN Classification - Wine Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/04_KNN-Clasification_Wine-Dataset.ipynb): Classifying wines of unknown type based on the similarity (*nearest neighbor*) with other labelled wines.
   - ### K-Means Clustering
-    - [K-Means Clustering - Iris Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/05_K-Means-Clustering_Iris-Dataset.ipynb): Unlabelled flowers of *k* different types are separated into groups/clusters. The optimal number of clusters k is also found.
+    - [K-Means Clustering - Iris Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/05_K-Means-Clustering_Iris-Dataset.ipynb): Clustering unlabelled flowers of *k* different types. The optimal number of clusters k is also found.
     - [An Unsupervised Approach to MNIST Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/06_An-Unsupervised-Approach-to-MNIST.ipynb): Clustering of handwritten digits (MNIST) is performed assuming we don't know how many different types of digits there are.
 
 ## Deep Learning
