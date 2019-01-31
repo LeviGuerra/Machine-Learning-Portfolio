@@ -45,12 +45,12 @@ Most of the projects include a thorough **Exploratory Data Analysis** (libraries
 ## Personal Projects
 This section is a connection to other larger personal projects. Due to their more ambitious nature they are presented in individual repositories.
 
-- **Customer Clustering and Churn Prediction in a Bank:** [Being updated]
+- **[Customer Clustering and Churn Prediction in a Bank:](https://github.com/LeviGuerra/Bank-Churn-Prediction/blob/master/Code_and_Dataset/Customer_Clustering_and_Churn_Prediction.ipynb)**: In this project a solution for the customer churn in a bank is presented. The model can be divided into two goals: split customers into groups of highly similar members (clustering) and predict by means of deep learning the churn risk of individual customers. The application of the model here presented would translate in a positive economical impact for the institution. Furthermore these results are not exclusive for banks: any type of institution/company with a large number of customers (or employees), where loyalty represents a valuable feature, could benefit from it.
 
 ------
 
 ## About me:
 
-Levi Guerra García (26 y/o). Physicist (M.Sc.) passionate about Machine Learning, Data Analysis and Neuroscience. Further information about myself (here)[https://www.linkedin.com/in/leviguerra/].
+Levi Guerra García (26 y/o). Physicist (M.Sc.) passionate about Machine Learning, Data Analysis and Neuroscience. Further information about myself [here](https://www.linkedin.com/in/leviguerra/).
 
 For any suggestion regarding the content of the portfolio, or for a collaboration proposal, please do not hesistate to send me an email: leviguerra.g@gmail.com
