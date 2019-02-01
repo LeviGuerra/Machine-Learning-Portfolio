@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-**Author: Levi Guerra** ([About me](#About-me))
+**Author: Levi Guerra** ([about me](#About-me))
 
 Compilation of my **public Machine Learning projects**. They come in the shape of *Jupyter Notebooks* (Python code with text and images). This portfolio contains projects for different types of ML-algorithms (Supervised, Unsupervised and Deep Learning) and a final section with larger and more ambitious personal projects. 
 
