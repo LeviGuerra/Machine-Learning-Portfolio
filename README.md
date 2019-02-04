@@ -33,10 +33,11 @@ Most of the projects include a thorough **Exploratory Data Analysis** (libraries
   - ### Multilayer Perceptron (MLP)
     - [Multilayer Perceptron - MNIST Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/08_MLP_MNIST.ipynb): Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. *Keras* library used.
   - ### Convolutional Neural Networks (CNN)
-    - [Being Updated]()
+    - [Convolutional Neural Networks - MNIST dataset](): Being updated!
+    - [Convolutional Neural Networks - CIFAR-10 dataset](): Being updated!
   - ### Autoencoders
-    - [Being Updated]()
-    - [Being Updated]()
+    - [Convolutional Autoencoders - MNIST dataset](): Being updated!
+    - [Convolutional Autoencoders - Tiny ImageNet dataset](): Being updated!
     
 ## Others
  - ### Data Augmentation
