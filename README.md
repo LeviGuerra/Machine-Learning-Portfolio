@@ -40,7 +40,7 @@ Most of the projects include a thorough **Exploratory Data Analysis** (libraries
     
 ## Others
  - ### Data Augmentation
-    - [Being Updated]()
+    - [Data Augmentation on Images](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/09_Data-Augmentation_MNIST-Dataset.ipynb): The amount of data to train a model might not be enough to properly generalize the features of the classes to learn. Here we show how data augmentation (rotations, translations and noise) performed over the MNIST Dataset is necessary if we want a more general, robust model.
 
 ## Personal Projects
 This section is a connection to other larger personal projects. Due to their more ambitious nature they are presented in individual repositories.
