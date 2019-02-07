@@ -34,7 +34,7 @@ Most of the projects include a thorough **Exploratory Data Analysis** (libraries
     - [Multilayer Perceptron - MNIST Dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/08_MLP_MNIST.ipynb): Classifying handwritten digits (MNIST) by means of neural networks. Different multilayer perceptron architechtures and optimizers are used and compared. *tensorflow.keras* API used.
   - ### Convolutional Neural Networks (CNN)
     - [Convolutional Neural Networks - MNIST dataset](https://github.com/LeviGuerra/Machine-Learning-Portfolio/blob/master/Codes_and_Datasets/10_CNN_MNIST.ipynb): Classifying the handwritten digits of the MNIST dataset, this time through convolutional neural networks. Two different optimizers are used under the same architechture. *tensorflow.keras* API used.
-    - [Convolutional Neural Networks - CIFAR-10 dataset](): Being updated!
+    - [Convolutional Neural Networks - CIFAR-100 dataset](): Being updated!
   - ### Autoencoders
     - [Convolutional Autoencoders - MNIST dataset](): Being updated!
     - [Convolutional Autoencoders - Tiny ImageNet dataset](): Being updated!
