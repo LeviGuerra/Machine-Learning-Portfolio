@@ -1,4 +1,4 @@
-# Machine Learning Portfolio
+# Machine Learning Portfolio (work in progress)
 
 **Author: Levi Guerra** ([about me](#About-me))
 
